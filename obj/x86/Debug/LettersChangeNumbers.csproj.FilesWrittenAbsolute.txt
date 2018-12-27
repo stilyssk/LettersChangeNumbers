@@ -1,0 +1,5 @@
+/home/stilyssk/CSharp/LettersChangeNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/stilyssk/CSharp/LettersChangeNumbers/bin/Debug/LettersChangeNumbers.exe.mdb
+/home/stilyssk/CSharp/LettersChangeNumbers/bin/Debug/LettersChangeNumbers.exe
+/home/stilyssk/CSharp/LettersChangeNumbers/obj/x86/Debug/LettersChangeNumbers.exe
+/home/stilyssk/CSharp/LettersChangeNumbers/obj/x86/Debug/LettersChangeNumbers.exe.mdb
